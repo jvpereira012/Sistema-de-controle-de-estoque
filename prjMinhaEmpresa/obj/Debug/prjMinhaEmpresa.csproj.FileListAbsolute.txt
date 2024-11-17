@@ -1,0 +1,57 @@
+C:\Users\Lab0106\Documents\Visual Studio 2012\Projects\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\prjMinhaEmpresa.exe.config
+D:\2º DS\D.S\09 Setembro\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\prjMinhaEmpresa.exe.config
+D:\2º DS\D.S\09 Setembro\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.csprojResolveAssemblyReference.cache
+D:\2º DS\D.S\09 Setembro\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.Properties.Resources.resources
+D:\2º DS\D.S\09 Setembro\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.csproj.GenerateResource.Cache
+D:\2º DS\D.S\09 Setembro\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\prjMinhaEmpresa.exe
+D:\2º DS\D.S\09 Setembro\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\prjMinhaEmpresa.pdb
+D:\2º DS\D.S\09 Setembro\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.exe
+D:\2º DS\D.S\09 Setembro\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.pdb
+D:\2º DS\D.S\09 Setembro\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.frmSplash.resources
+D:\2º DS\D.S\09 Setembro\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.frmLogin.resources
+C:\Mathias\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\prjMinhaEmpresa.exe.config
+C:\Mathias\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.exe
+C:\Mathias\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.pdb
+C:\Mathias\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\prjMinhaEmpresa.exe
+C:\Mathias\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\prjMinhaEmpresa.pdb
+C:\Mathias\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.csprojResolveAssemblyReference.cache
+C:\Mathias\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.frmSplash.resources
+C:\Mathias\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.frmLogin.resources
+C:\Mathias\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.Properties.Resources.resources
+C:\Mathias\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.csproj.GenerateResource.Cache
+C:\Mathias\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.frmNovoUsuario.resources
+C:\Users\Lab0106\Documents\Mathias\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\prjMinhaEmpresa.exe.config
+C:\Users\Lab0106\Documents\Mathias\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.exe
+C:\Users\Lab0106\Documents\Mathias\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.pdb
+C:\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\prjMinhaEmpresa.exe.config
+C:\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.exe
+C:\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.pdb
+C:\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\prjMinhaEmpresa.exe
+C:\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\prjMinhaEmpresa.pdb
+C:\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\MySql.Data.dll
+C:\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.csprojResolveAssemblyReference.cache
+C:\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.frmSplash.resources
+C:\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.frmLogin.resources
+C:\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.frmNovoUsuario.resources
+C:\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.Properties.Resources.resources
+C:\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.csproj.GenerateResource.Cache
+D:\2º DS\D.S\09 Setembro\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\MySql.Data.dll
+D:\2º DS\D.S\09 Setembro\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.frmNovoUsuario.resources
+D:\2º DS\D.S\09 Setembro\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.frmPrincipal.resources
+D:\2º DS\D.S\09 Setembro\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.frmCadProd.resources
+C:\Users\lenovo\Desktop\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\prjMinhaEmpresa.exe.config
+C:\Users\lenovo\Desktop\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.exe
+C:\Users\lenovo\Desktop\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.pdb
+C:\Users\lenovo\Desktop\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\prjMinhaEmpresa.exe
+C:\Users\lenovo\Desktop\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\prjMinhaEmpresa.pdb
+C:\Users\lenovo\Desktop\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\MySql.Data.dll
+C:\Users\lenovo\Desktop\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.frmSplash.resources
+C:\Users\lenovo\Desktop\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.frmCadProd.resources
+C:\Users\lenovo\Desktop\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.frmLogin.resources
+C:\Users\lenovo\Desktop\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.frmNovoUsuario.resources
+C:\Users\lenovo\Desktop\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.frmPrincipal.resources
+C:\Users\lenovo\Desktop\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.Properties.Resources.resources
+C:\Users\lenovo\Desktop\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.csproj.GenerateResource.Cache
+D:\prjMinhaEmpresa\prjMinhaEmpresa\bin\Debug\prjMinhaEmpresa.exe.config
+D:\prjMinhaEmpresa\prjMinhaEmpresa\obj\Debug\prjMinhaEmpresa.exe
